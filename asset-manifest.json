@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edge-dc/static/css/main.e7f692af.css",
+    "main.js": "/edge-dc/static/js/main.a4697f7b.js",
+    "static/js/787.f81a0625.chunk.js": "/edge-dc/static/js/787.f81a0625.chunk.js",
+    "index.html": "/edge-dc/index.html",
+    "main.e7f692af.css.map": "/edge-dc/static/css/main.e7f692af.css.map",
+    "main.a4697f7b.js.map": "/edge-dc/static/js/main.a4697f7b.js.map",
+    "787.f81a0625.chunk.js.map": "/edge-dc/static/js/787.f81a0625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f692af.css",
+    "static/js/main.a4697f7b.js"
+  ]
+}
